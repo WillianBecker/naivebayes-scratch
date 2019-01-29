@@ -13,7 +13,7 @@ It is the main file which get all data from dataset file and train/test a classi
 
 * **diabetes.csv** file:
 
-The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+Pima Indians Diabetes Database consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
 
 1. *Pregnancies*: Number of times pregnant.
 2. *Glucose*: Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
